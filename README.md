@@ -9,6 +9,6 @@ My Notebook :
 [skill_count.ipynb](project_DA\skill_count.ipynb)s
 
 ## Results 
-[Visulaisation of top skills](images\skill_deman.png)
+![Visulaisation of top skills](images\skill_deman.png)
 
 # Insights 
